@@ -1,0 +1,36 @@
+body{
+  background:linear-gradient( #ffcccb, 50%, red 100%);
+  text-align: center;
+  background-repeat: no-repeat;
+}
+img{
+  width: 100%;
+  border-radius: 50%;
+}
+#gaming{
+  text-shadow: 2px 2px #FFD700;
+}
+#infoSec{
+  padding: 20px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    background-color: aquamarine;
+    color: black;
+    font-family: 'Goldman', cursive;
+}
+.links:hover {
+    background-color: red;
+}
+body{
+    font-family: 'Goldman', cursive;
+}
+html{
+    scroll-behavior: smooth;
+}
